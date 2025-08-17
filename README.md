@@ -14,7 +14,6 @@ Details of the project: [https://cs186.gitbook.io/project/](https://cs186.gitboo
 In this document, we explain
 - how to setup a local development environment
 - how to run tests using IntelliJ
-- how to submit your code to turn in assignments
 - the general architecture of the released code
 
 ## Setting up your local development environment
